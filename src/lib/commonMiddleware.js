@@ -9,4 +9,4 @@ export default handler => middy(handler)
     httpJsonBodyParser(),
     httpEventNormalizer(),
     httpErrorHandler()
-  ])
+  ]);
