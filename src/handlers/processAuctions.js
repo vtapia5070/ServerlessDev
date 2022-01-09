@@ -5,6 +5,7 @@ import { closeAuction } from '../lib/closeAuction';
 async function processAuctions(event, context) {
   try {
     const auctionsToClose = await getEndedAuctions();
+    console.log('auctions to close:', auctionsToClose)
     const closePromises = auctionsToClose.map(auction => closeAuction(auction));
     await Promise.all(closePromises);
     return { closed: closePromises.length };
