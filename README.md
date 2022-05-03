@@ -6,7 +6,7 @@ https://codingly.io
 This is part of a Serverless - Nodejs Course on Udemy. 
 Other services related are:
 - [Notification Service](https://github.com/vtapia5070/notification-service)
-- [Serverless Auth] (https://github.com/vtapia5070/serverless-auth)
+- [Serverless Auth](https://github.com/vtapia5070/serverless-auth)
 - [Serverless Dev](https://github.com/vtapia5070/ServerlessDev)
 - [sls-course-frontend](https://github.com/vtapia5070/sls-course-frontend)
 
