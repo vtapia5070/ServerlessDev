@@ -2,6 +2,16 @@
 
 https://codingly.io
 
+
+This is part of a Serverless - Nodejs Course on Udemy. 
+Other services related are:
+- [Notification Service](https://github.com/vtapia5070/notification-service)
+- [Serverless Auth] (https://github.com/vtapia5070/serverless-auth)
+- [Serverless Dev](https://github.com/vtapia5070/ServerlessDev)
+- [sls-course-frontend](https://github.com/vtapia5070/sls-course-frontend)
+
+
+
 ## What's included
 * Folder structure used consistently across our projects.
 * [serverless-pseudo-parameters plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Allows you to take advantage of CloudFormation Pseudo Parameters.
